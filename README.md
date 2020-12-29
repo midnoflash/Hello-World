@@ -1,4 +1,4 @@
 # Hello-World
 just learn
 
-YOu know, i'm just learning.
+You know, i'm just learning.
